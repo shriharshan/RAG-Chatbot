@@ -1,0 +1,5 @@
+langchain
+cassio
+nltk
+pypdf2
+langchain_community
